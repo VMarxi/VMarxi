@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarxiVii, you may call me by both Marxi and Victor
+- 👋 Hi, I’m @MarxiVii, you may call me by both Victor and Marxi
 - 👀 I’m interested in graphic art, coding and mobile development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on almost anything, really. It'll help with my learning
