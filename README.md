@@ -4,6 +4,8 @@
 - Feel free to invite me for collaboration on almost anything, really. It'll help with my learning~
 - 📫 You can reach me through messages here, I'll take a look at them daily.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marxivii)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 VMarxi/VMarxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
