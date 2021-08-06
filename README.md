@@ -1,4 +1,4 @@
-- 👋 Hi all, I’m @MarxiVii, you may call me by both Victor and Marxi~
+- 👋 Hi y'all, I’m @MarxiVii, you may call me by both Victor and Marxi~
 - I'm a bachelor in design, with background on both digital and traditional art, but as of now I'm shifting careers towards coding and possibly mobile development too.
 - I’m currently learning Python. I'll soon learn Java and JavaScript, and maybe Kotlin as well
 - Feel free to invite me for collaboration on almost anything, really. It'll help with my learning~
