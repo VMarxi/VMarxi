@@ -1,6 +1,6 @@
 - 👋 Hi y'all, I’m @MarxiVii, you may call me by both Victor and Marxi~
-- 🎨 I'm a bachelor in design, with background on both digital and traditional art, but as of now I'm shifting careers towards coding and possibly mobile development too.
-- 📝 I’m currently learning Python. I'll soon learn Java and JavaScript, and maybe Kotlin as well
+- 🎨 I'm a bachelor in design, with background on both digital and traditional art, but as of now I'm shifting careers towards coding. I'm mostly interested in back-end since it seems more fun, but I guess my current skills will translate well into front-end.
+- 📝 I’m currently learning Python at the CESAR Next program and I'll soon learn Java through it as well. I also started studying HTML, CSS and JavaScript through freecodecamp.org.
 - 💻 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning~
 - 📣 Reach me through my LinkedIn https://www.linkedin.com/in/victormcavalcanti/  
 - 📫 Or through my e-mail victor.mcavalcanti@gmail.com
