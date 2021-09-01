@@ -1,4 +1,4 @@
-- 👋 Hi y'all, I’m @MarxiVii, you may call me by both Victor and Marxi~
+- 👋 Hi y'all, I’m Victor, you may call me by Vii or Marxi~
 - 🎨 I'm a bachelor in design, with background on both digital and traditional art, but as of now I'm shifting careers towards coding. I'm mostly interested in back-end since it seems more fun, but I guess my current skills will translate well into front-end.
 - 📝 I’m currently learning Python at the CESAR Next program and I'll soon learn Java through it as well. I also started studying HTML, CSS and JavaScript through freecodecamp.org.
 - 💻 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning~
