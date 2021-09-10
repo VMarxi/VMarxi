@@ -7,22 +7,22 @@
 - 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
 
-<div align="center" style="display: inline_block"><br>
-  <h3>Tech Stack</h3>
+<div align="left" style="display: inline_block"><br>
+  <h4>Tech Stack</h4>
   <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Vic-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">  
-  <br><br>
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img src="https://img.shields.io/badge/-Ubuntu-orange">
-  <img src="https://img.shields.io/badge/-Linux%20Mint-99eebb">
-  <img src="https://img.shields.io/badge/-Solus%20Linux-406070">
-  <img src="https://img.shields.io/badge/-Krita-ddaaee">
-  <img src="https://img.shields.io/badge/-Inkscape-404040">
+  <h4>Design Stack and OS</h4>
+  <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Ubuntu-orange">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Linux%20Mint-99eebb">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Solus%20Linux-406070">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Krita-ddaaee">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Inkscape-404040">
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -36,7 +36,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">GitHub ReadMe Stats courtesy of Anurag Hazra 💙</a>
 </div>
   
-<div align="center" style="display: inline_block">
+<div align="right" style="display: inline_block">
   <h3>Contact Info</h3>
   <a href="mailto:victor.mcavalcanti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="+5581994717636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
