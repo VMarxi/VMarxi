@@ -18,11 +18,11 @@
   <h4>Design Stack and OS</h4>
   <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Krita-ddaaee">
+  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Inkscape-404040">
   <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Ubuntu-orange">
   <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Linux%20Mint-99eebb">
   <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Solus%20Linux-406070">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Krita-ddaaee">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Inkscape-404040">
 </div>
 
 <div align="center" style="display: inline_block"><br>
