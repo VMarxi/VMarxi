@@ -6,6 +6,7 @@
 - 💻 Currently working on some arts + a landing page as a freelance project for a client of mine
 - 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
+
 <div align="center" style="display: inline_block"><br>
   <h3>Tech Stack</h3>
   <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -23,11 +24,18 @@
   <img src="https://img.shields.io/badge/-Krita-ddaaee">
   <img src="https://img.shields.io/badge/-Inkscape-404040">
 </div>
+
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/VicMCA">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=VicMCA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMCA&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
+</div>
+
+<div align="center">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub ReadMe Stats courtesy of Anurag Hazra 💙</a>
+</div>
+  
 <div align="center" style="display: inline_block">
   <h3>Contact Info</h3>
   <a href="mailto:victor.mcavalcanti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
