@@ -7,7 +7,7 @@
 - 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
 
-<div align="left" style="display: inline_block"><br>
+<div align="left" style="display: inline_block">
   <h4>Tech Stack</h4>
   <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
