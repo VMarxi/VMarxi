@@ -2,7 +2,7 @@
 
 - 👋 Hi y'all, I’m Victor, you can also call me by Vii or Marxi~
 - 🎨 I'm a design bachelor with experience in both digital and traditional art, and now I'm shifting careers towards coding. Everything I've learnt has been surprisingly fun (thankfully 😆) and I believe my design skills will translate well into front-end
-- 📝 I’m currently learning Python and Java at the CESAR Next program, and HTML, CSS and JavaScript through freecodecamp.org. Python and JS are a blast to use ✨
+- 📝 I’m currently learning Python and Java at the CESAR Next program, and HTML, CSS and JavaScript through both Alura's "Dev Immersion" and freecodecamp.org. Python and JS are a blast to use ✨
 - 💻 Currently working on some arts + a landing page as a freelance project for a client of mine
 - 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
