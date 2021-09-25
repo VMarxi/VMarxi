@@ -6,6 +6,7 @@
 - 💻 Currently working on some arts + a landing page as a freelance project for a client of mine
 - 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
+- [NEW 🗞️] https://vicmca.github.io/MyPortfolio/ A tiny cute portfolio that's still gonna be upgraded A LOT (and receive other stuff I published here)!
 
 <div align="left" style="display: inline_block">
   <h4>Tech Stack</h4>
