@@ -1,30 +1,37 @@
 ### Welcome, people of all places! 
 
-- 👋 Hi y'all, I’m Victor, you can also call me by Vii or Marxi~
-- 🎨 I'm a design bachelor with experience in both digital and traditional art, and now I'm shifting careers towards coding. Everything I've learnt has been surprisingly fun (thankfully 😆) and I believe my design skills will translate well into front-end
-- 📝 I’m currently learning Python and Java at the CESAR Next program, and HTML, CSS and JavaScript through both Alura's "Dev Immersion" and freecodecamp.org. Python and JS are a blast to use ✨
-- 💻 Currently working on some arts + a landing page as a freelance project for a client of mine
-- 💚 Feel free to invite me for collaboration on almost anything, really. It'll help with my learning and I'm eager to learn! 📔
+- 👋 Hi y'all, I’m Victor. I'm also Matheus. But please use Victor 🥲
+- 🎨 ⇒ 💻 I'm originally a designer bachelor, but shifted careers towards coding. Started with Python backend, now I work with React Frontend
+- 📝 Currently studying unit testing with the RTL and Jest.
+- 🧡 Working at the CESAR Labs, as Junior Software Engineer.
+- 💚 Feel free to invite me for collaboration, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my LinkedIn ➡️ https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
-- [NEW 🗞️] https://vicmca.github.io/MyPortfolio/ A tiny cute portfolio that's still gonna be upgraded A LOT (and receive other stuff I published here)!
+- [OLD] https://vicmca.github.io/MyPortfolio/ A tiny cute portfolio made when I had just begun studying. Maybe the time to re-do it is nigh 👀
 
 <div align="left" style="display: inline_block">
   <h4>Tech Stack</h4>
-  <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vic-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">  
-  <h4>Design Stack and OS</h4>
-  <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Vic-JS" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Krita-ddaaee">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Inkscape-404040">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Ubuntu-orange">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Linux%20Mint-99eebb">
-  <img align="center" alt="Vic-JS" height="20" src="https://img.shields.io/badge/-Solus%20Linux-406070">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg"/>
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>  
+    <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"/>
+  <h4>Operating Systems I use</h4>
+    <img align="center" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"/>
+    <img align="center" alt="Mint" height="30" width="40" src="https://github.com/unixporn/distro-icons/raw/master/SVG/mint.svg"/>
+    <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/unixporn/distro-icons/raw/master/SVG/ubuntu.svg"/>
+    <img align="center" alt="Solus" height="30" width="40" src="https://github.com/unixporn/distro-icons/raw/master/SVG/solus.svg"/>
+    <img align="center" alt="OpenSUSE" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/opensuse/opensuse-original.svg"/>
+  <h4>Design Tools</h4>
+    <img align="center" alt="Photoshop" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+    <img align="center" alt="Figma" height="20" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg"/>
+    <img align="center" alt="Illustrator" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
+    <img align="center" alt="Krita" height="20" src="https://img.shields.io/badge/-Krita-ddaaee"/>
+    <img align="center" alt="Inkscape" height="20" src="https://img.shields.io/badge/-Inkscape-404040"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -35,7 +42,7 @@
 
 <div align="center">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub ReadMe Stats courtesy of Anurag Hazra 💙</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub ReadMe Stats courtesy of Anurag Hazra</a>
 </div>
   
 <div align="right" style="display: inline_block">
@@ -46,6 +53,11 @@
   <a href="https://www.linkedin.com/in/victormcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
 <!---
+
+Linux Icon Repo: https://github.com/unixporn/distro-icons/tree/master/SVG
+Languages and Frameworks Repo: https://github.com/devicons/devicon/tree/master/icons
+Custom Badges: https://img.shields.io/
+
 VMarxi/VMarxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
