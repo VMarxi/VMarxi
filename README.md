@@ -5,8 +5,8 @@
 - 📝 Currently studying unit testing with the RTL and Jest.
 - 🧡 Working at the CESAR Labs, as Junior Software Engineer.
 - 💚 Feel free to invite me for collaboration, really. It'll help with my learning and I'm eager to learn! 📔
-- 📣 Reach me on my [LinkedIn]https://www.linkedin.com/in/victormcavalcanti/ Or my e-mail 📫 victor.mcavalcanti@gmail.com
-- [OLD 🕜] https://vicmca.github.io/MyPortfolio/ A tiny cute portfolio made when I had just begun studying. Maybe the time to re-do it is nigh 👀
+- 📣 Reach me on my [LinkedIn](https://www.linkedin.com/in/victormcavalcanti/) Or my e-mail 📫 victor.mcavalcanti@gmail.com
+- [OLD 🕜] [Portfólio](https://vicmca.github.io/MyPortfolio/) A tiny cute portfolio made when I had just begun studying. Maybe the time to re-do it is nigh 👀
 
 <div align="left" style="display: inline_block">
   <h4>Tech Stack</h4>
@@ -47,8 +47,6 @@
 <div align="right" style="display: inline_block">
   <h3>Contact Info</h3>
   <a href="mailto:victor.mcavalcanti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="+5581994717636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="+5581994717636" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victormcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
 <!---
