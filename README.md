@@ -28,7 +28,6 @@
     <img align="center" alt="OpenSUSE" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/opensuse/opensuse-original.svg"/>
   <h4>Design Tools</h4>
     <img align="center" alt="Photoshop" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
-    <img align="center" alt="Figma" height="20" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg"/>
     <img align="center" alt="Illustrator" height="20" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
     <img align="center" alt="Krita" height="20" src="https://img.shields.io/badge/-Krita-ddaaee"/>
     <img align="center" alt="Inkscape" height="20" src="https://img.shields.io/badge/-Inkscape-404040"/>
@@ -56,6 +55,7 @@
 
 Linux Icon Repo: https://github.com/unixporn/distro-icons/tree/master/SVG
 Languages and Frameworks Repo: https://github.com/devicons/devicon/tree/master/icons
+Badges: https://github.com/aleen42/badges/tree/master/src
 Custom Badges: https://img.shields.io/
 
 VMarxi/VMarxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
