@@ -21,6 +21,7 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"/>
   <h4>Operating Systems I use</h4>
+    <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
     <img align="center" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"/>
     <img align="center" alt="Mint" height="30" width="40" src="https://github.com/unixporn/distro-icons/raw/master/SVG/mint.svg"/>
     <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/unixporn/distro-icons/raw/master/SVG/ubuntu.svg"/>
