@@ -5,8 +5,8 @@
 - 📝 Currently studying unit testing with the RTL and Jest.
 - 🧡 Working at the CESAR Labs, as Junior Software Engineer.
 - 💚 Feel free to invite me for collaboration, really. It'll help with my learning and I'm eager to learn! 📔
-- 📣 Reach me on my [LinkedIn](https://www.linkedin.com/in/victormcavalcanti/) Or my e-mail 📫 victor.mcavalcanti@gmail.com
-- [OLD 🕜] [Portfólio](https://vicmca.github.io/MyPortfolio/) A tiny cute portfolio made when I had just begun studying. Maybe the time to re-do it is nigh 👀
+- 📣 Reach me on my [LinkedIn](https://www.linkedin.com/in/victor-mcavalcanti/) Or my e-mail 📫 victor.mcavalcanti@gmail.com
+- [OLD 🕜] [Portfólio](https://vicmca.github.io/MyPortfolio/) A tiny cute portfolio made when I had just begun studying. I'd better redo it eventually 👀
 
 <div align="left" style="display: inline_block">
   <h4>Tech Stack</h4>
