@@ -1,9 +1,8 @@
 ### Welcome, people of all places! 
 
-- 👋 Hi y'all, I’m Victor. I'm also Matheus. But please use Victor 🥲
+- 👋 Hi y'all, I’m Victor. I'm also Matheus. But please use Victor 🥲. I have another profile, @VicCAlq, which will be the primary one. This one here is for personal stuff.
 - 🎨 ⇒ 💻 I'm originally a designer bachelor, but shifted careers towards coding. Started with Python backend, now I work with React Frontend
-- 📝 Currently studying unit testing with the RTL and Jest.
-- 🧡 Working at the CESAR Labs, as Junior Software Engineer.
+- 📝 Currently studying Rust and Lua
 - 💚 Feel free to invite me for collaboration, really. It'll help with my learning and I'm eager to learn! 📔
 - 📣 Reach me on my [LinkedIn](https://www.linkedin.com/in/victor-mcavalcanti/) Or my e-mail 📫 victor.mca.dev@gmail.com
 - [OLD 🕜] [Portfólio](https://vicmca.github.io/MyPortfolio/) A tiny cute portfolio made when I had just begun studying. I'd better redo it eventually 👀
@@ -47,8 +46,8 @@
   
 <div align="right" style="display: inline_block">
   <h3>Contact Info</h3>
-  <a href="mailto:victor.mcavalcanti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/victormcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:victor.mca.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-mcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
 <!---
 
